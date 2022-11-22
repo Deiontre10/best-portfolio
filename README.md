@@ -12,6 +12,6 @@ This is a portfolio for projects. It has a reset.css in case anything goes wrong
 
 ## Visuals
 
-![A screenshot of the on the website](#)
+![A screenshot of the css snippet cheatsheet website](assets/images/css.png "CSS Snippet Cheatsheet")
 
-![A screenshot of the on the website](#)
+![A screenshot of the seo refactor website](assets/images/seo.png "SEO Refactor")
