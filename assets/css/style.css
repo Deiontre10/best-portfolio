@@ -18,16 +18,15 @@ h3 {
 .container {
     max-width: 1140px;
     margin: 0 auto;
-    background-color: lightgrey;
 }
 
 .container > header {
-    padding: 15px;
-    display: flex;
-    justify-content: space-between;
+    padding: 20px;
     font-family: Arial, sans-serif;
     background-color: black;
     color: #ffffff;
+    display: flex;
+    justify-content: space-between;
 }
 
 nav a {
@@ -38,7 +37,7 @@ nav a {
 }
 
 section {
-    padding: 15px;
+    padding: 20px;
     line-height: 30px;
     font-size: 30px;
 }
@@ -51,6 +50,7 @@ section {
 .about img {
    margin-right: 15px;
    margin-bottom: 15px;
+   width: 200px;
 }
 
 #work {
@@ -67,14 +67,14 @@ article img {
     width: 100%;
 }
 
-.featured {
+.focus {
     width: 100%;
 }
 
 footer {
-    padding: 2%;
+    padding: 15px;
     display: flex;
-    align-content: flex-end;
+    justify-content: flex-end;
     font-family: Arial, sans-serif;
     background-color: black;
     color: #ffffff;
@@ -82,7 +82,7 @@ footer {
 
 footer a {
     font-size: 24px;
-    margin-left: 16px;
+    margin-left: 15px;
     text-decoration: none;
     color: white;
 }
